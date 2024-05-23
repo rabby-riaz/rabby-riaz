@@ -5,7 +5,18 @@
 - 📫 How to reach me : Message me at Twitter . 
 
 
-<!---
-rabby-riaz/rabby-riaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+* Hi everyone, I'm Rabby-Riz! 
+* I'm passionate about Cybersecurity Research. 
+* I'm currently expanding my knowledge in Computer Science Engineering (CSE). 
+
+**Looking For:**
+
+* I'm eager to collaborate on cybersecurity research projects. ️
+
+**Connect With Me:**
+
+* Feel free to send me a direct message on Twitter to chat about cybersecurity research! 
+
