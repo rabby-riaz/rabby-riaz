@@ -7,7 +7,7 @@ In my capacity as a Cyber Security Analyst, I meticulously analyze systems and n
 Skills: Cybersecurity Analysis/Programming Languages/Web Application Security/Secure Coding Practices/Threat Intelligence/
 
 - 🔭 I’m currently working on ThreatHunters Team 
-- 🌱 I’m currently learning CSE in BUET 
+- 🌱 I’m currently learning CSE
 - 👯 I’m looking to collaborate on  cybersecurity research projects , problem solving projects, SOC analyst projects 
 - 📫 How to reach me: Message or Mail me . Email: riazf3301@gmail.com 
 
