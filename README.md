@@ -1,4 +1,4 @@
-### Hi there 👋, This is RABBY HASAN RIAZ
+### Hi there 👋, This is RABBI HASAN RIAZ
 #### An Cyber Security Researcher and Database Developer 
 As a Cyber Security Analyst and Programmer, I possess a unique blend of skills and expertise that allows me to navigate the complex landscape of cybersecurity with confidence and proficiency. My role involves a multifaceted approach to protecting digital assets, from conducting thorough risk assessments to implementing cutting-edge security measures.
 
