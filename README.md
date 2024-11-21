@@ -1,14 +1,10 @@
 ### Hi there 👋, This is RABBI HASAN RIAZ
-#### An Cyber Security Researcher and Database Developer 
-As a Cyber Security Analyst and Programmer, I possess a unique blend of skills and expertise that allows me to navigate the complex landscape of cybersecurity with confidence and proficiency. My role involves a multifaceted approach to protecting digital assets, from conducting thorough risk assessments to implementing cutting-edge security measures.
+#### An IT enthusiast 
 
-In my capacity as a Cyber Security Analyst, I meticulously analyze systems and networks to identify vulnerabilities and potential threats. Through penetration testing, threat hunting, and continuous monitoring, I stay vigilant against emerging risks and proactively implement strategies to mitigate them. My in-depth understanding of security protocols and frameworks enables me to develop comprehensive security strategies tailored to the specific needs of each environment.
-
-Skills: Cybersecurity Analysis/Programming Languages /Web Application Security/Database aministration /Secure Coding Practices/Threat Intelligence/
 
 - 🔭 I’m currently working on "SafeSec Security"
-- 🌱 I’m currently learning CSE
-- 👯 I’m looking to collaborate on  cybersecurity research projects , Database programming projects, problem solving projects, SOC analyst projects 
+- 🌱 I’m currently learning aeronautical engineering 
+- 👯 I’m looking to collaborate on 
 - 📫 How to reach me: Message or Mail me . Email: riazf3301@gmail.com 
 
 
